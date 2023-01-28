@@ -1,0 +1,20 @@
+{
+    "name": "darks/gym-app",
+    "description": "Proyecto dinamico de una App Web con PHP, Gulp, Sass, JS",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MVC\\" : "./",
+            "Controllers\\" : "./controllers",
+            "Model\\" : "./models",
+            "Classes\\" : "./classes"
+        }
+    },
+    "authors": [
+        {
+            "name": "David407407",
+            "email": "darksideinthespace@gmail.com"
+        }
+    ],
+    "require": {}
+}
